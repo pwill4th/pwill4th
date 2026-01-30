@@ -6,7 +6,7 @@ href="https://www.linkedin.com/in/percydwilliamsiv/">Data Analyst</a>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/pwill4th/SQL_Techniques)
-  - [TEST Demonstrating Advanced SQL Techniques](https://github.com/pwill4th/SQL_Techniques)
+  - [TEST Demonstrating Advance SQL Techniques](https://github.com/pwill4th/SQL_Techniques)
 
 - <b>💾Power BI            </b>
   - [Demonstrating SQL Techniques](https://github.com/pwill4th/SQL_Techniques)
@@ -14,6 +14,8 @@ href="https://www.linkedin.com/in/percydwilliamsiv/">Data Analyst</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=0818b9ba-ecc9-476c-803b-da51cdd74412)
+- <b>📜Advance SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=0818b9ba-ecc9-476c-803b-da51cdd74412)
 
 
