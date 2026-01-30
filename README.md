@@ -6,7 +6,7 @@ href="https://www.linkedin.com/in/percydwilliamsiv/">Data Analyst</a>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/pwill4th/SQL_Techniques)
-  - [TEST Demonstrating Advance SQL Techniques](https://github.com/pwill4th/SQL_Techniques)
+  - [TEST Demonstrating Advanced SQL Techniques](https://github.com/pwill4th/SQL_Techniques)
 
 - <b>💾Power BI            </b>
   - [Demonstrating SQL Techniques](https://github.com/pwill4th/SQL_Techniques)
