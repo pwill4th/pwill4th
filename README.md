@@ -17,9 +17,9 @@ href=>TEST ROLE</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=0818b9ba-ecc9-476c-803b-da51cdd74412)
+  - [Demonstrated competency in Beginner to Intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=0818b9ba-ecc9-476c-803b-da51cdd74412)
 - <b>📜Advance SQL Boot Camp</b>
-  - [Demonstrated competency in advance SQL skills](https://www.virtualbadge.io/certificate-validator?credential=4de2efbc-869b-4172-83b0-e16d99d3c8cf)
+  - [Demonstrated competency in Advance SQL skills](https://www.virtualbadge.io/certificate-validator?credential=4de2efbc-869b-4172-83b0-e16d99d3c8cf)
 
 
 <h2>📱Connect with me:</h2>
