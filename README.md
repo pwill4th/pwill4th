@@ -1,5 +1,8 @@
 <h1>Hi, I'm Percy D. Williams! <br/><a 
-href="https://www.linkedin.com/in/percydwilliamsiv/">Data Analyst</a>
+href="https://www.linkedin.com/in/percydwilliamsiv/">Data Analyst</a>, <a
+href=>TESTScrum Master</a>, <a
+href=>TEST ROLE</a>
+                                                                         
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
@@ -16,7 +19,7 @@ href="https://www.linkedin.com/in/percydwilliamsiv/">Data Analyst</a>
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=0818b9ba-ecc9-476c-803b-da51cdd74412)
 - <b>📜Advance SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=0818b9ba-ecc9-476c-803b-da51cdd74412)
+  - [Demonstrated competency in advance SQL skills](https://www.virtualbadge.io/certificate-validator?credential=4de2efbc-869b-4172-83b0-e16d99d3c8cf)
 
 
 <h2>📱Connect with me:</h2>
